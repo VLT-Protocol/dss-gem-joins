@@ -1,3 +1,6 @@
+# Link
+Original repo https://github.com/makerdao/dss-gem-joins, for fetching and merge change add new remote with command `git remote add maker https://github.com/makerdao/dss-gem-joins`.
+
 # Dss GemJoin adapters
 
 This repository contains a set of different GemJoin adapters to be used with collaterals that need extra functionality or constraints (based on standard [GemJoin](https://github.com/makerdao/dss/blob/master/src/join.sol)).
